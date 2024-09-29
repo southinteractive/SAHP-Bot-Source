@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5",
+    "noblox": "^4.8.5",
+    "noblox.js": "^6.0.2"
+  }
+}
