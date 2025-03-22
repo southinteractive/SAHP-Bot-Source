@@ -27,5 +27,5 @@ That's it!
 
 #
 © 2025 South Interactive Corporation. All rights reserved.
-By continuing to use this source, you agree to our (Terms of Service)[https://shawdow.xyz/term-of-service.html]
+By continuing to use this source, you agree to our [Terms of Service](https://shawdow.xyz/term-of-service.html)
 #
