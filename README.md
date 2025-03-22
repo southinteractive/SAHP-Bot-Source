@@ -1,6 +1,8 @@
 # San Andreas Highway Patrol Bot Source
 *This bot was designed and developed for Sandy Shores, specifically for the San Andreas Highway Patrol. Unfortunately, I have been scammed by the community management, which is plagued by corruption and dishonesty. They exposed their previous owner for inappropriate behavior and legal penalties followed, yet promised a better, corruption free community. Those promises were lies. Proof of these events has been uploaded to YouTube.*
 
+SouthWare API Status can be found here https://shawdow.xyz/public/status.php
+
 ## How to Get the Bot Running
 
 1. **Install Node.js**: Ensure you have Node.js 
@@ -24,5 +26,6 @@
 That's it!
 
 #
-© 2024 South Interactive. All rights reserved.
+© 2025 South Interactive Corporation. All rights reserved.
+By continuing to use this source, you agree to our (Terms of Service)[https://shawdow.xyz/term-of-service.html]
 #
